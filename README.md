@@ -1,6 +1,8 @@
 # HttpSetServer_training
 
-## Установка
+## Установка и зависимости
+C++17 Boost
+
 Чтобы установить библеотеку boost достаточно просто можно тут:
   https://gist.github.com/zrsmithson/0b72e0cb58d0cb946fc48b5c88511da8
 
