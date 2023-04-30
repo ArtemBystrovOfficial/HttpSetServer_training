@@ -7,6 +7,7 @@ C++17 Boost
   https://gist.github.com/zrsmithson/0b72e0cb58d0cb946fc48b5c88511da8
 
 ## Описание
+- Только Get запросы
 - Сервер на одну комнату
 - все запросы отсюда, кроме несколькоих комнат -> https://github.com/Krushiler/com.krushiler.set-game-server/blob/master/Readme.md
    + /set/room/enter -> /set/enter *вход в главную комнату*
